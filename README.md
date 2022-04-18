@@ -1,1 +1,1 @@
-# A in class demo to learn Git on the command line.
+# An in class demo to learn Git on the command line.
